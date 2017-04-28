@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Chez Valeria</string>
+    <string name="bussines_name">Chez Valeria</string>
+    <string name="slogan">Cakes, Donuts and Coffee</string>
+
+    <string name="direccion">Caramel Avenue, 31. 032015. Bruxelles</string>
+    <string name="telefono">555-1234-324</string>
+    <string name="horas">Mon. - Sat. 9:30 - 16:30</string>
+    <string name="email">manager@chezvaleria.yummy</string>
+    <string name="social">\@chez_vj</string>
+
+
+
+
+</resources>
